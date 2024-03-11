@@ -14,4 +14,7 @@ crossterm = "0.27.0"
 ratatui = "0.26.1"
 # Async
 eyre = "0.6.12"
+reqwest = "0.11.25"
+async-trait = "0.1.77"
+http = "1.1.0"
 

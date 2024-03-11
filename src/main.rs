@@ -11,6 +11,7 @@ use ratatui::{
     widgets::{Block, Borders, Paragraph},
     Terminal,
 };
+pub mod ethereum;
 
 fn main() -> Result<(), io::Error> {
     // Setup terminal
